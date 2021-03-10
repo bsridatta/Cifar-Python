@@ -1,0 +1,60 @@
+Lambda:  0.008528010715160766 | Train_acc:  0.6146666666666667 | val_acc:  0.5376 | Loss on the test dataset : 1.480800275703781 | Accuracy on the test datset : 0.5191
+
+
+Lambda:  0.007459492824676242 | Train_acc:  0.6295777777777778 | val_acc:  0.5372 | Loss on the test dataset : 1.471055223648025 | Accuracy on the test datset : 0.5259
+
+
+Lambda:  0.007904168469325722 | Train_acc:  0.6306666666666667 | val_acc:  0.5438 | Loss on the test dataset : 1.4577965163736903 | Accuracy on the test datset : 0.5266
+
+
+Lambda:  0.014074351302603766 | Train_acc:  0.6042222222222222 | val_acc:  0.5326 | Loss on the test dataset : 1.4700821098132866 | Accuracy on the test datset : 0.5225
+
+
+Lambda:  0.01253101535313128 | Train_acc:  0.6079111111111111 | val_acc:  0.5312 | Loss on the test dataset : 1.4600159163523072 | Accuracy on the test datset : 0.5255
+
+
+Lambda:  0.008888203234485758 | Train_acc:  0.6255555555555555 | val_acc:  0.5414 | Loss on the test dataset : 1.4608927943873264 | Accuracy on the test datset : 0.5255
+
+
+Lambda:  0.004395733417085532 | Train_acc:  0.6595333333333333 | val_acc:  0.5428 | Loss on the test dataset : 1.4810317355211091 | Accuracy on the test datset : 0.5301
+
+
+Lambda:  0.004711164742135594 | Train_acc:  0.6595111111111112 | val_acc:  0.5392 | Loss on the test dataset : 1.4833420601294303 | Accuracy on the test datset : 0.5267
+
+
+Lambda:  0.007472360421957255 | Train_acc:  0.6369777777777778 | val_acc:  0.5464 | Loss on the test dataset : 1.4634252178998692 | Accuracy on the test datset : 0.5275
+
+
+Lambda:  0.011331244020057108 | Train_acc:  0.6193777777777778 | val_acc:  0.5438 | Loss on the test dataset : 1.4611877010953433 | Accuracy on the test datset : 0.5255
+
+
+Lambda:  0.004366243703126039 | Train_acc:  0.6609111111111111 | val_acc:  0.5462 | Loss on the test dataset : 1.4731673910733538 | Accuracy on the test datset : 0.5271
+
+
+Lambda:  0.014249535871635655 | Train_acc:  0.6096444444444444 | val_acc:  0.5356 | Loss on the test dataset : 1.4737491442494888 | Accuracy on the test datset : 0.5243
+
+
+Lambda:  0.011965118389623117 | Train_acc:  0.6137555555555556 | val_acc:  0.5366 | Loss on the test dataset : 1.4645327943081738 | Accuracy on the test datset : 0.5261
+
+
+Lambda:  0.00758860864771491 | Train_acc:  0.6361777777777777 | val_acc:  0.537 | Loss on the test dataset : 1.4590896197894836 | Accuracy on the test datset : 0.5277
+
+
+Lambda:  0.011281361723500806 | Train_acc:  0.6152444444444445 | val_acc:  0.536 | Loss on the test dataset : 1.4622965581735548 | Accuracy on the test datset : 0.5218
+
+
+Lambda:  0.006422007481158785 | Train_acc:  0.6433777777777778 | val_acc:  0.537 | Loss on the test dataset : 1.4636167739383916 | Accuracy on the test datset : 0.5244
+
+
+Lambda:  0.009865405061217518 | Train_acc:  0.6235777777777778 | val_acc:  0.537 | Loss on the test dataset : 1.4641647750066964 | Accuracy on the test datset : 0.5212
+
+
+Lambda:  0.004902429047423366 | Train_acc:  0.6562666666666667 | val_acc:  0.5364 | Loss on the test dataset : 1.4791538289825823 | Accuracy on the test datset : 0.5249
+
+
+Lambda:  0.006756949535014469 | Train_acc:  0.6403111111111112 | val_acc:  0.5318 | Loss on the test dataset : 1.4683461054608855 | Accuracy on the test datset : 0.5264
+
+
+Lambda:  0.006446956197735122 | Train_acc:  0.646 | val_acc:  0.5352 | Loss on the test dataset : 1.4732717376150017 | Accuracy on the test datset : 0.5281
+
+
